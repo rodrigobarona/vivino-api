@@ -1,0 +1,35 @@
+{
+  "vinos": [
+    {
+      "name": "Casa Ferreirinha Papa Figos Douro",
+      "link": "https://www.vivino.com/US-CA/en/wines/2884845",
+      "thumb": "https://images.vivino.com/thumbs/VWPrKN9URnKtbo8BReaVLQ_pb_300x300.png",
+      "country": "Portugal",
+      "region": "Douro",
+      "average_rating": 3.9,
+      "ratings": 82572,
+      "price": 20.53
+    },
+    {
+      "name": "Casa Ferreirinha Papa Figos Douro Branco",
+      "link": "https://www.vivino.com/US-CA/en/wines/144932663",
+      "thumb": "https://images.vivino.com/thumbs/xrBuPttQTbKs_bVj25kTVQ_pb_300x300.png",
+      "country": "Portugal",
+      "region": "Douro",
+      "average_rating": 3.8,
+      "ratings": 6076,
+      "price": 21.99
+    },
+    {
+      "name": "Casa Ferreirinha Papa Figos Rosé",
+      "link": "https://www.vivino.com/US-CA/en/wines/171481522",
+      "thumb": "https://images.vivino.com/thumbs/vYiXl0ATTkiwnJyQdfUTaA_pb_300x300.png",
+      "country": "Portugal",
+      "region": "Douro",
+      "average_rating": 3.7,
+      "ratings": 195,
+      "price": null
+    }
+  ],
+  "status": "FULL_DATA"
+}
